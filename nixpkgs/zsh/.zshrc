@@ -76,4 +76,7 @@ export PGO_NAMESPACE=pgo
 
 export PATH="${PATH}:${HOME}/.pgo/pgo"
 
+# Use Antonio's cache
+cachix use anmonteiro
+
 if [ -e /Users/ulrik.strid/.nix-profile/etc/profile.d/nix.sh ]; then . /Users/ulrik.strid/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
