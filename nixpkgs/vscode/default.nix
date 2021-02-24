@@ -17,7 +17,7 @@
       "terminal.integrated.shell.linux" = "zsh";
       "terminal.integrated.shell.osx" = "zsh";
       "workbench.colorTheme" = "Night Owl";
-      "workbench.iconTheme" = "vscode-icons";
+      "workbench.iconTheme" = "material-icon-theme";
       "[typescript]" = {
         "editor.defaultFormatter" = "esbenp.prettier-vscode";
       };

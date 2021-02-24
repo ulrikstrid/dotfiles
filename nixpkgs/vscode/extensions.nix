@@ -8,8 +8,8 @@
   {
     name = "nix-env-selector";
     publisher = "arrterian";
-    version = "0.1.2";
-    sha256 = "1n5ilw1k29km9b0yzfd32m8gvwa2xhh6156d4dys6l8sbfpp2cv9";
+    version = "1.0.2";
+    sha256 = "16pz637gx2kdm438irzx43jzjajhpjpzhgr15znkvaizy61s7vx1";
   }
   {
     name = "Nix";
@@ -22,6 +22,12 @@
     publisher = "codezombiech";
     version = "0.6.0";
     sha256 = "0gnc0691pwkd9s8ldqabmpfvj0236rw7bxvkf0bvmww32kv1ia0b";
+  }
+  {
+    name = "bracket-pair-colorizer-2";
+    publisher = "CoenraadS";
+    version = "0.2.0";
+    sha256 = "0nppgfbmw0d089rka9cqs3sbd5260dhhiipmjfga3nar9vp87slh";
   }
   {
     name = "vscode-github-actions";
@@ -86,14 +92,14 @@
   {
     name = "vscode-docker";
     publisher = "ms-azuretools";
-    version = "1.9.1";
-    sha256 = "1l7pm3s5kbf2vark164ykz4qbpa1ac9ls691hham36f6v91dmff9";
+    version = "1.10.0";
+    sha256 = "0kryrvs1gm2d3kj378gsszhn4dkkgv34vir4gky7347jw2rmg7rb";
   }
   {
     name = "vscode-kubernetes-tools";
     publisher = "ms-kubernetes-tools";
-    version = "1.2.4";
-    sha256 = "1ax5jg3znz2zjbhrk6wirrn8vld6813xp4i6jdddcg67bx3s7wn3";
+    version = "1.3.0";
+    sha256 = "0zdhyy8xpv12dgs3s14cidz0vxcjd75q3k9gh68gl9x81sc3swwr";
   }
   {
     name = "remote-containers";
@@ -122,14 +128,8 @@
   {
     name = "vsliveshare";
     publisher = "ms-vsliveshare";
-    version = "1.0.3629";
-    sha256 = "1lvv81awg3ny539xffj3bj64xmfm8jksjvxk71459sf80pg461vz";
-  }
-  {
-    name = "vsliveshare-audio";
-    publisher = "ms-vsliveshare";
-    version = "0.1.91";
-    sha256 = "0p00bgn2wmzy9c615h3l3is6yf5cka84il5331z0rkfv2lzh6r7n";
+    version = "1.0.3784";
+    sha256 = "1fa30acdwm6p8bsnhx5wrypgsb74xfzk8m37xv6i4x3z1wczzcrr";
   }
   {
     name = "vsliveshare-pack";
@@ -142,6 +142,12 @@
     publisher = "ocamllabs";
     version = "1.6.0";
     sha256 = "11mk852ki4dwg33jns5zyv063xx7s9b3rr808slz05k87nz7w8z8";
+  }
+  {
+    name = "material-icon-theme";
+    publisher = "PKief";
+    version = "4.5.0";
+    sha256 = "1mp069j9262ds7f9rx05lhvm85072bx4lyj5nicplmjwwwhf6jwl";
   }
   {
     name = "vscode-yaml";
