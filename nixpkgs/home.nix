@@ -50,11 +50,8 @@ in
     open-policy-agent
     kubectl
     kubectx
-    kubernetes-helm
     azure-cli
-    krew
-    fluxctl
-    fluxcd
+    sops
     # Docker doesn't really work on mac
     # docker 
     docker-compose

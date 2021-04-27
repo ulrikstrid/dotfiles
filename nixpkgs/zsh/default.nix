@@ -7,7 +7,6 @@
     shellAliases = {
       k = "kubectl";
       iw = "init-workspace";
-      ccat = "cat";
       cat = "bat";
       # create shas for nix, from anmonteiro
       npf = "nix-prefetch-url --type sha256";

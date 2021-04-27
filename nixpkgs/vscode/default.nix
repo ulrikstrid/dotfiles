@@ -24,6 +24,14 @@
       "[javascript]" = {
         "editor.defaultFormatter" = "esbenp.prettier-vscode";
       };
+      "todo-tree.general.tags" = [
+        "BUG"
+        "HACK"
+        "FIXME"
+        "TODO"
+        "XXX"
+        "[ ]"
+      ];
     };
   };
 }
